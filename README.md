@@ -19,4 +19,6 @@ At DIT Services, we operate out of Cardiff, delivering an array of state-of-the-
 
 # DIT Glossary
 
+[www.dit-glossary.co.uk](https://dit-glossary.co.uk)
+
 The DIT Glossary is a project to help provide access to definitions of common technical terms used by digital imaging techncians during a project.  
