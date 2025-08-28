@@ -15,11 +15,11 @@ At DIT Services, we operate out of Cardiff, delivering an array of state-of-the-
 [www.digitalimagingtech.co.uk](https://digitalimagingtech.co.uk)
 
 <!-- BLOG-POST-LIST:START -->
+- [The Guest for BBC](https://www.digitalimagingtech.co.uk/blog/the-guest-for-bbc)
 - [Recommended DIT Shuttle Drives](https://www.digitalimagingtech.co.uk/blog/recommended-dit-shuttle-drives)
 - [Introducing the DIT Glossary](https://www.digitalimagingtech.co.uk/blog/introducing-the-dit-glossary)
 - [Choosing The Right DIT Service](https://www.digitalimagingtech.co.uk/blog/choosing-the-right-dit-service)
 - [Scalability and Ensuring An Efficient Shoot to Post Workflow](https://www.digitalimagingtech.co.uk/blog/scalability-and-efficient-shoot-to-post-workflow)
-- [Legacy Format Capture](https://www.digitalimagingtech.co.uk/blog/legacy-format-capture)
 <!-- BLOG-POST-LIST:END -->
 
 # DIT Glossary
