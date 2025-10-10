@@ -14,4 +14,4 @@ jobs:
       - name: pull-posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.digitalimagingtech.co.uk/blog?format=rss"
+          feed_list: "https://www.digitalimagingtech.co.uk/news?format=rss"
