@@ -15,11 +15,11 @@ At DIT Services, we operate out of Cardiff, delivering an array of state-of-the-
 [www.digitalimagingtech.co.uk](https://digitalimagingtech.co.uk)
 
 <!-- BLOG-POST-LIST:START -->
-- [DIT Services x Post-Super](https://www.digitalimagingtech.co.uk/news/dit-services-x-post-super)
-- [DIT Services Boosts Internet Connection](https://www.digitalimagingtech.co.uk/news/dit-services-boosts-internet-connection)
-- [DIT Services x UK Screen Alliance](https://www.digitalimagingtech.co.uk/news/dit-services-x-uk-screen-alliance)
-- [H is For Hawk](https://www.digitalimagingtech.co.uk/news/h-is-for-hawk)
-- [The Guest for BBC](https://www.digitalimagingtech.co.uk/news/the-guest-for-bbc)
+- [DIT Services is now Pixel &amp; Process.](https://pixelandprocess.co.uk/news/dit-services-pixel-process)
+- [DIT Services x Post-Super](https://pixelandprocess.co.uk/news/dit-services-x-post-super)
+- [DIT Services Boosts Internet Connection](https://pixelandprocess.co.uk/news/dit-services-boosts-internet-connection)
+- [DIT Services x UK Screen Alliance](https://pixelandprocess.co.uk/news/dit-services-x-uk-screen-alliance)
+- [H is For Hawk](https://pixelandprocess.co.uk/news/h-is-for-hawk)
 <!-- BLOG-POST-LIST:END -->
 
 # DIT Glossary
